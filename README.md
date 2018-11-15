@@ -1,0 +1,2 @@
+# Intro-ArcGIS
+Geographical information systems (GIS) have become a widely used part of the scientific software field. Some employers value GIS as part a core key skill set in their applicants, and many scientists would benefit from being able to conduct simple analysis and data visualisation for research and publication. In this course, we will be covering an introduction to the ArcGIS software, with worksheets, video tutorials and example assignments.
